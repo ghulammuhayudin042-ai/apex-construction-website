@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="General construction site with tower crane" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sky0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fb2e5"/><stop offset="1" stop-color="#dcecf9"/></linearGradient>
+  <radialGradient id="glow0" cx="0.78" cy="0.28" r="0.5"><stop offset="0" stop-color="#fff7d6" stop-opacity="0.9"/><stop offset="1" stop-color="#fff7d6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vig0" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#071426" stop-opacity="0"/><stop offset="1" stop-color="#071426" stop-opacity="0.55"/></linearGradient>
+</defs>
+<rect width="1200" height="800" fill="url(#sky0)"/><rect width="1200" height="800" fill="url(#glow0)"/><path d="M0 520 Q150 440 300 500 T620 470 T920 510 T1200 460 V640 H0Z" fill="#9db8d3" opacity="0.5"/>
+<rect x="0" y="640" width="1200" height="160" fill="#2b3a4a"/><rect x="620" y="260" width="360" height="380" fill="#4a6d93"/><rect x="620" y="260" width="360" height="8" fill="#17345c"/><rect x="620" y="323" width="360" height="8" fill="#17345c"/><rect x="620" y="386" width="360" height="8" fill="#17345c"/><rect x="620" y="449" width="360" height="8" fill="#17345c"/><rect x="620" y="512" width="360" height="8" fill="#17345c"/><rect x="620" y="575" width="360" height="8" fill="#17345c"/><rect x="620" y="260" width="10" height="380" fill="#17345c"/><rect x="710" y="260" width="10" height="380" fill="#17345c"/><rect x="800" y="260" width="10" height="380" fill="#17345c"/><rect x="890" y="260" width="10" height="380" fill="#17345c"/><rect x="980" y="260" width="10" height="380" fill="#17345c"/><g stroke="#f59e0b" stroke-width="5" fill="none">
+  <path d="M330 640 V120"/>
+  <path d="M346 640 V120"/>
+  <path d="M330 640 L346 600 M346 640 L330 600" stroke-width="2"/><path d="M330 600 L346 560 M346 600 L330 560" stroke-width="2"/><path d="M330 560 L346 520 M346 560 L330 520" stroke-width="2"/><path d="M330 520 L346 480 M346 520 L330 480" stroke-width="2"/><path d="M330 480 L346 440 M346 480 L330 440" stroke-width="2"/><path d="M330 440 L346 400 M346 440 L330 400" stroke-width="2"/><path d="M330 400 L346 360 M346 400 L330 360" stroke-width="2"/><path d="M330 360 L346 320 M346 360 L330 320" stroke-width="2"/><path d="M330 320 L346 280 M346 320 L330 280" stroke-width="2"/><path d="M330 280 L346 240 M346 280 L330 240" stroke-width="2"/><path d="M330 240 L346 200 M346 240 L330 200" stroke-width="2"/><path d="M330 200 L346 160 M346 200 L330 160" stroke-width="2"/><path d="M330 160 L346 120 M346 160 L330 120" stroke-width="2"/>
+  <path d="M180 120 H560" stroke-width="7"/>
+  <path d="M180 120 L338 70 L560 120" stroke-width="3"/>
+  <path d="M520 120 V210" stroke="#ffd27a" stroke-width="3"/>
+  </g>
+  <rect x="502" y="208" width="36" height="20" fill="#ffd27a"/>
+  <rect x="170" y="114" width="26" height="22" fill="#f59e0b"/><g stroke="#d98200" stroke-width="5" fill="none">
+  <path d="M1050 640 V260"/>
+  <path d="M1066 640 V260"/>
+  <path d="M1050 640 L1066 600 M1066 640 L1050 600" stroke-width="2"/><path d="M1050 600 L1066 560 M1066 600 L1050 560" stroke-width="2"/><path d="M1050 560 L1066 520 M1066 560 L1050 520" stroke-width="2"/><path d="M1050 520 L1066 480 M1066 520 L1050 480" stroke-width="2"/><path d="M1050 480 L1066 440 M1066 480 L1050 440" stroke-width="2"/><path d="M1050 440 L1066 400 M1066 440 L1050 400" stroke-width="2"/><path d="M1050 400 L1066 360 M1066 400 L1050 360" stroke-width="2"/><path d="M1050 360 L1066 320 M1066 360 L1050 320" stroke-width="2"/><path d="M1050 320 L1066 280 M1066 320 L1050 280" stroke-width="2"/>
+  <path d="M900 260 H1280" stroke-width="7"/>
+  <path d="M900 260 L1058 210 L1280 260" stroke-width="3"/>
+  <path d="M1240 260 V350" stroke="#ffd27a" stroke-width="3"/>
+  </g>
+  <rect x="1222" y="348" width="36" height="20" fill="#ffd27a"/>
+  <rect x="890" y="254" width="26" height="22" fill="#d98200"/><path d="M140 640 L180 590 H260 L300 640Z" fill="#f59e0b"/>
+<rect width="1200" height="800" fill="url(#vig0)"/>
+</svg>

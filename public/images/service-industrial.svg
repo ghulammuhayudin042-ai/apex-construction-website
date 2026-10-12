@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Industrial warehouse facility" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sky0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a9aab"/><stop offset="1" stop-color="#d8dee5"/></linearGradient>
+  <radialGradient id="glow0" cx="0.78" cy="0.28" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vig0" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#071426" stop-opacity="0"/><stop offset="1" stop-color="#071426" stop-opacity="0.55"/></linearGradient>
+</defs>
+<rect width="1200" height="800" fill="url(#sky0)"/><rect width="1200" height="800" fill="url(#glow0)"/><path d="M0 520 Q150 440 300 500 T620 470 T920 510 T1200 460 V640 H0Z" fill="#a3b0be" opacity="0.5"/>
+<rect x="0" y="620" width="1200" height="180" fill="#36424f"/><path d="M120 620 V380 L600 300 L1080 380 V620Z" fill="#667789"/><path d="M120 380 L600 300 L1080 380 V410 L600 330 L120 410Z" fill="#2d3b4b"/><rect x="190" y="480" width="150" height="140" fill="#2d3b4b"/><path d="M190 500 H340 M190 530 H340 M190 560 H340 M190 590 H340" stroke="#667789" stroke-width="3"/><rect x="410" y="480" width="150" height="140" fill="#2d3b4b"/><path d="M410 500 H560 M410 530 H560 M410 560 H560 M410 590 H560" stroke="#667789" stroke-width="3"/><rect x="630" y="480" width="150" height="140" fill="#2d3b4b"/><path d="M630 500 H780 M630 530 H780 M630 560 H780 M630 590 H780" stroke="#667789" stroke-width="3"/><rect x="850" y="480" width="150" height="140" fill="#2d3b4b"/><path d="M850 500 H1000 M850 530 H1000 M850 560 H1000 M850 590 H1000" stroke="#667789" stroke-width="3"/><rect x="40" y="520" width="90" height="100" fill="#f59e0b"/><rect x="1080" y="540" width="90" height="80" fill="#f59e0b"/>
+<rect width="1200" height="800" fill="url(#vig0)"/>
+</svg>

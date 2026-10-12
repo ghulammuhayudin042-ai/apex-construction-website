@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Company equipment yard" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sky0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#26385f"/><stop offset="1" stop-color="#f0a35e"/></linearGradient>
+  <radialGradient id="glow0" cx="0.78" cy="0.28" r="0.5"><stop offset="0" stop-color="#ffd08a" stop-opacity="0.9"/><stop offset="1" stop-color="#ffd08a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vig0" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#071426" stop-opacity="0"/><stop offset="1" stop-color="#071426" stop-opacity="0.55"/></linearGradient>
+</defs>
+
+<rect width="1200" height="800" fill="#141d3a"/><rect x="0" y="560" width="1200" height="240" fill="#26364a"/><path d="M300 560 L540 280 L580 310 L350 580Z" fill="#c7cfd8"/><circle cx="560" cy="290" r="64" fill="#c7cfd8"/><circle cx="590" cy="262" r="28" fill="#141d3a"/><rect x="720" y="320" width="120" height="260" rx="10" fill="#f59e0b"/><rect x="750" y="260" width="60" height="70" fill="#d98200"/><path d="M900 540 h200 l-30 -190 h-140Z" fill="#f59e0b"/><rect x="880" y="540" width="240" height="26" fill="#d98200"/>
+<rect width="1200" height="800" fill="url(#vig0)"/>
+</svg>

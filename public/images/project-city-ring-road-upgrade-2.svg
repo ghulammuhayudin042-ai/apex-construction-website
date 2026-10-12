@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="City Ring Road paving works" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sky0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fb2e5"/><stop offset="1" stop-color="#dcecf9"/></linearGradient>
+  <radialGradient id="glow0" cx="0.78" cy="0.28" r="0.5"><stop offset="0" stop-color="#fff7d6" stop-opacity="0.9"/><stop offset="1" stop-color="#fff7d6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vig0" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#071426" stop-opacity="0"/><stop offset="1" stop-color="#071426" stop-opacity="0.55"/></linearGradient>
+</defs>
+<rect width="1200" height="800" fill="url(#sky0)"/><rect width="1200" height="800" fill="url(#glow0)"/><path d="M0 520 Q150 440 300 500 T620 470 T920 510 T1200 460 V640 H0Z" fill="#9db8d3" opacity="0.5"/>
+<path d="M0 520 L1200 520 V800 H0Z" fill="#2b3a4a"/><path d="M470 520 L730 520 L1120 800 H80Z" fill="#3b4652"/><path d="M595 520 L600 800" stroke="#f5f5f5" stroke-width="6" stroke-dasharray="40 30"/><rect x="590" y="540" width="10" height="24" fill="#f5f5f5"/><rect x="587" y="588" width="13" height="24" fill="#f5f5f5"/><rect x="584" y="636" width="16" height="24" fill="#f5f5f5"/><rect x="581" y="684" width="19" height="24" fill="#f5f5f5"/><rect x="578" y="732" width="22" height="24" fill="#f5f5f5"/><rect x="575" y="780" width="25" height="24" fill="#f5f5f5"/><path d="M0 520 Q300 430 600 480 T1200 440" stroke="#17345c" stroke-width="3" fill="none"/><rect x="130" y="610" width="200" height="90" fill="#f59e0b"/><circle cx="170" cy="720" r="30" fill="#1b2a3b"/><circle cx="290" cy="720" r="30" fill="#1b2a3b"/><rect x="250" y="560" width="100" height="60" fill="#d98200"/>
+<rect width="1200" height="800" fill="url(#vig0)"/>
+</svg>
